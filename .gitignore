@@ -5,6 +5,7 @@
 # Byte-compiled / optimized / DLL files
 git_commit.ipynb
 *.html
+assignment/
 
 __pycache__/
 *.py[cod]
